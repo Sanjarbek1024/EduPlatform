@@ -1,0 +1,2 @@
+# EduPlatform
+Kengaytirilgan EduPlatform loyihasi
