@@ -1,0 +1,7 @@
+2025-06-14T14:59:25.642625 | Exported 4 records to users.csv (csv)
+2025-06-14T14:59:25.647544 | Exported 1 records to assignments.csv (csv)
+2025-06-14T14:59:25.650503 | Exported 0 records to grades.csv (csv)
+2025-06-14T14:59:25.652604 | Exported 0 records to notifications.csv (csv)
+2025-06-14T14:59:25.655544 | Exported 0 records to schedules.csv (csv)
+2025-06-14T14:59:25.738204 | Exported 5 records to export.xlsx (xlsx)
+2025-06-14T14:59:25.740686 | Exported 5 records to export.sql (sql)
